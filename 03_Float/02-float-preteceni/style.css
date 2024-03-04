@@ -26,13 +26,13 @@ h1 {
  tmava      #34495e
 */
 
-
 .box   {
 	width: 70%;
 	margin: 0 auto;
 	padding: 1em;
 	background-color: #ffffaa;
 	border: 5px dashed red;
+	overflow: auto;
 }
 
 
